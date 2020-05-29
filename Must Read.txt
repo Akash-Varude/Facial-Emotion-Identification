@@ -1,0 +1,4 @@
+I implemented the model training program in google colab, 
+So paths in the program are according to my drive 
+
+If you want to implement this program, just change the path according to path of your dataset 
