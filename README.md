@@ -7,7 +7,7 @@ Make sure you change addresses according to storage location of your dataset
 
 ### Steps to implement 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 1. Run Face_Emotion_Detection.ipynb 
       - You can run it in Jupyter notebook or google colab 
