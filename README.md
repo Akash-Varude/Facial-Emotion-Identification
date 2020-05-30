@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Facial Emotion Identification
 
-You can use the [editor on GitHub](https://github.com/Akash-Varude/Facial-Emotion-Identification/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can find dataset [here](https://www.kaggle.com/shawon10/ckplus) for this project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have implemented this project in google colab so the addresses used to load dataset in the program are according to my drive.
+Make sure you change addresses according to storage location of your dataset
 
-### Markdown
+### Steps to implement 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Akash-Varude/Facial-Emotion-Identification/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Run Face_Emotion_Detection.ipynb 
+      - You can run it in Jupyter notebook or google colab 
+      - Trained Model is saved after complete execution of this program. Make sure you save the model in the same folder.
+2. Run video_tester.ipynb 
+      - This requires camera permission. 
+      - give the permission if it asks for it
